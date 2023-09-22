@@ -1,6 +1,22 @@
-# Back End Engineering Roadmap
-**Arbic Below **
+# Back End Engineering Roadmap | خارطة طريق هندسة الواجهة الخلفية 
+**English Below **
 
+
+**العربية**
+
+## موضوعات نظرية
+- مفاهيم أساسية في الشبكات
+- كيف الإنترنت يخدم,
+- أساسيات قواعد البيانات ( مخطط  انسياب البيانات .  . . )
+- protocols: http, tcp, websockets, ftp and more
+- learn what is an api and api types ( REST api, Graph api . . . )
+
+## الأدوات والتقنيات
+- تعلم sql server or mysql
+- أنظمة التشغيل (لينكس، Bash scripts)
+- نظام تحكم الإصدارات : git
+
+## المهارات الناعمة
 
 ## Conceptual Topics
 - Basic networking concepts
@@ -15,21 +31,3 @@
 - Version Control System: Git, then learn github
 
 ## Soft Skills 
-
-
-**العربية**
-
-## موضوعات نظرية
-- مفاهيم أساسية في الشبكات
-- كيف الإنترنت يخدم,
-- أساسيات قواعد البيانات ( مخطط  انسياب البيانات .  . . )
-- protocols: http, tcp, websockets, ftp and more
-- learn what is an api and api types ( REST api, Graph api . . . )
-
-## الأدوات والتقنيات
-- تعلم sql server or mysql
-- أنظمة التشغيل
-- نظام تحكم الإصدارات : git
-
-## المهارات الناعمة
-
