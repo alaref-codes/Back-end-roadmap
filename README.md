@@ -17,6 +17,8 @@
 - نظام تحكم الإصدارات : git
 
 ## المهارات الناعمة
+- القدرة على التخطيط والتحليل
+- حل المشاكل
 
 ## Conceptual Topics
 - Basic networking concepts
@@ -31,3 +33,5 @@
 - Version Control System: Git, then learn github
 
 ## Soft Skills 
+- Ability to plan and analyse.
+- Poblem Solving.
