@@ -1,5 +1,5 @@
-#خارطة لتعلم هندسة البرمجيات
-#Roadmap for learning Software Engineering
+# خارطة لتعلم هندسة البرمجيات
+# Roadmap for learning Software Engineering
 **English Below **
 
 
